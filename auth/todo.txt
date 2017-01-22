@@ -1,0 +1,8 @@
+In authentication.js, add forgot password and reset password routes.
+Session handling
+Set up mongoose art schema
+    + artist: id
+    + title: string
+    + medium: string
+Upload art to s3
+Store s3 url in mongodb
